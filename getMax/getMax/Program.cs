@@ -17,9 +17,9 @@ namespace getMax
                 Console.Write("Enter first number: ");
                 number = int.Parse(Console.ReadLine());
                 Console.Write("Enter second number: ");
-                int b = int.Parse(Console.ReadLine());
+                int number2 = int.Parse(Console.ReadLine());
 
-                GetMax(number, b);
+                GetMax(number, number2);
             {
                 Console.WriteLine("The largets number is {0}", number);
             }

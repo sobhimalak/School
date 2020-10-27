@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{9F3E6D59-D77F-47A9-BDB8-64EA534D24AA}|Default">
-  <MonoDevelop.Ide.ItemProperties.getMax PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{0881591F-C308-4227-B0CD-A4DE9F501E11}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="reverseString/Program.cs">
     <Files>
-      <File FileName="getMax/Program.cs" Line="13" Column="14" />
+      <File FileName="reverseString/Program.cs" Line="21" Column="44" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="getMax" expanded="True">
-            <Node name="getMax" expanded="True">
+          <Node name="reverseString" expanded="True">
+            <Node name="reverseString" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,6 +17,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.reverseString PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
