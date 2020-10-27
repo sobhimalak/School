@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.deps.json
+/Users/sobhione/Documents/School/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.runtimeconfig.json
+/Users/sobhione/Documents/School/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.dll
+/Users/sobhione/Documents/School/Helloworld/Helloworld/bin/Debug/netcoreapp3.1/Helloworld.pdb
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.AssemblyInfo.cs
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.dll
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.pdb
+/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/Debug/netcoreapp3.1/Helloworld.genruntimeconfig.cache
