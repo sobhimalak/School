@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{431CEE8D-AD3B-4B77-943B-3E3AD549C48C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MultiplicationOfThreeFactors/Program.cs">
+    <Files>
+      <File FileName="MultiplicationOfThreeFactors/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MultiplicationOfThreeFactors" expanded="True">
+            <Node name="MultiplicationOfThreeFactors" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.MultiplicationOfThreeFactors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

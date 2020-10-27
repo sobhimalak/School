@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.AssemblyInfo.cs
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/bin/Debug/netcoreapp3.1/DivideByZero.deps.json
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/bin/Debug/netcoreapp3.1/DivideByZero.runtimeconfig.json
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/bin/Debug/netcoreapp3.1/DivideByZero.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/bin/Debug/netcoreapp3.1/DivideByZero.dll
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/bin/Debug/netcoreapp3.1/DivideByZero.pdb
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.dll
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.pdb
+/Users/sobhione/Documents/School/DivideByZero/DivideByZero/obj/Debug/netcoreapp3.1/DivideByZero.genruntimeconfig.cache

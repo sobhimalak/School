@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/bin/Debug/netcoreapp3.1/DivisionAndDivisionModule.deps.json
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/bin/Debug/netcoreapp3.1/DivisionAndDivisionModule.runtimeconfig.json
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/bin/Debug/netcoreapp3.1/DivisionAndDivisionModule.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/bin/Debug/netcoreapp3.1/DivisionAndDivisionModule.dll
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/bin/Debug/netcoreapp3.1/DivisionAndDivisionModule.pdb
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.AssemblyInfo.cs
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.dll
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.pdb
+/Users/sobhione/Documents/School/DivisionAndDivisionModule/DivisionAndDivisionModule/obj/Debug/netcoreapp3.1/DivisionAndDivisionModule.genruntimeconfig.cache

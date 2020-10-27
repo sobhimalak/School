@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sobhione/Documents/School/Helloworld/Helloworld/PracticeCsharp.csproj",
-      "projectName": "PracticeCsharp",
-      "projectPath": "/Users/sobhione/Documents/School/Helloworld/Helloworld/PracticeCsharp.csproj",
+      "projectUniqueName": "/Users/sobhione/Documents/School/SumsSquared/SumsSquared/GotenoughSleep.csproj",
+      "projectName": "GotenoughSleep",
+      "projectPath": "/Users/sobhione/Documents/School/SumsSquared/SumsSquared/GotenoughSleep.csproj",
       "packagesPath": "/Users/sobhione/.nuget/packages/",
-      "outputPath": "/Users/sobhione/Documents/School/Helloworld/Helloworld/obj/",
+      "outputPath": "/Users/sobhione/Documents/School/SumsSquared/SumsSquared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sobhione/.config/NuGet/NuGet.Config"

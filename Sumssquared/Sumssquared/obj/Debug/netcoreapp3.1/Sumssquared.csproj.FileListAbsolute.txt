@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/bin/Debug/netcoreapp3.1/Sumssquared.deps.json
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/bin/Debug/netcoreapp3.1/Sumssquared.runtimeconfig.json
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/bin/Debug/netcoreapp3.1/Sumssquared.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/bin/Debug/netcoreapp3.1/Sumssquared.dll
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/bin/Debug/netcoreapp3.1/Sumssquared.pdb
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.AssemblyInfo.cs
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.dll
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.pdb
+/Users/sobhione/Documents/School/Sumssquared/Sumssquared/obj/Debug/netcoreapp3.1/Sumssquared.genruntimeconfig.cache

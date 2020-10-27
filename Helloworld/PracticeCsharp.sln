@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helloworld", "Helloworld\Helloworld.csproj", "{8D63B2B8-824C-4A84-9486-B1A6A003B2F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCsharp", "Helloworld\PracticeCsharp.csproj", "{8D63B2B8-824C-4A84-9486-B1A6A003B2F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
