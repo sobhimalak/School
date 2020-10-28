@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/streamreader/streamreader/bin/Debug/netcoreapp3.1/streamreader.deps.json
+/Users/sobhione/Documents/School/streamreader/streamreader/bin/Debug/netcoreapp3.1/streamreader.runtimeconfig.json
+/Users/sobhione/Documents/School/streamreader/streamreader/bin/Debug/netcoreapp3.1/streamreader.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/streamreader/streamreader/bin/Debug/netcoreapp3.1/streamreader.dll
+/Users/sobhione/Documents/School/streamreader/streamreader/bin/Debug/netcoreapp3.1/streamreader.pdb
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.AssemblyInfo.cs
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.dll
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.pdb
+/Users/sobhione/Documents/School/streamreader/streamreader/obj/Debug/netcoreapp3.1/streamreader.genruntimeconfig.cache

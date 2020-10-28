@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sobhione/Documents/School/Stringlength/test/stringlength.csproj",
-      "projectName": "stringlength",
-      "projectPath": "/Users/sobhione/Documents/School/Stringlength/test/stringlength.csproj",
+      "projectUniqueName": "/Users/sobhione/Documents/School/streamreader/streamreader/streamreader.csproj",
+      "projectName": "streamreader",
+      "projectPath": "/Users/sobhione/Documents/School/streamreader/streamreader/streamreader.csproj",
       "packagesPath": "/Users/sobhione/.nuget/packages/",
-      "outputPath": "/Users/sobhione/Documents/School/Stringlength/test/obj/",
+      "outputPath": "/Users/sobhione/Documents/School/streamreader/streamreader/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/sobhione/.config/NuGet/NuGet.Config"

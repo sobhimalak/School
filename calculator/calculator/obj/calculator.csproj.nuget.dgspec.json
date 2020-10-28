@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sobhione/Documents/School/Stringlength/test/stringlength.csproj": {}
+    "/Users/sobhione/Documents/School/calculator/calculator/calculator.csproj": {}
   },
   "projects": {
-    "/Users/sobhione/Documents/School/Stringlength/test/stringlength.csproj": {
+    "/Users/sobhione/Documents/School/calculator/calculator/calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sobhione/Documents/School/Stringlength/test/stringlength.csproj",
-        "projectName": "stringlength",
-        "projectPath": "/Users/sobhione/Documents/School/Stringlength/test/stringlength.csproj",
+        "projectUniqueName": "/Users/sobhione/Documents/School/calculator/calculator/calculator.csproj",
+        "projectName": "calculator",
+        "projectPath": "/Users/sobhione/Documents/School/calculator/calculator/calculator.csproj",
         "packagesPath": "/Users/sobhione/.nuget/packages/",
-        "outputPath": "/Users/sobhione/Documents/School/Stringlength/test/obj/",
+        "outputPath": "/Users/sobhione/Documents/School/calculator/calculator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sobhione/.config/NuGet/NuGet.Config"

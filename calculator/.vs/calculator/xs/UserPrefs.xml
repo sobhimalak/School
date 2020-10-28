@@ -1,10 +1,14 @@
-﻿<Properties StartupConfiguration="{935E3B04-5AFA-4484-AAF9-0BE54A71BBBF}|Default">
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{03DAA08F-1EC5-41EB-83C1-DDC6A976CFCD}|Default">
+  <MonoDevelop.Ide.ItemProperties.calculator FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="calculator/Program.cs">
+    <Files>
+      <File FileName="calculator/Program.cs" Line="1" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="stringlength" expanded="True">
-            <Node name="stringlength" expanded="True">
+          <Node name="calculator" expanded="True">
+            <Node name="calculator" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -12,7 +16,6 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.stringlength PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
