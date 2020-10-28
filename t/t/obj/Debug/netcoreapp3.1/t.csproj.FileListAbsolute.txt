@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.AssemblyInfo.cs
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/t/t/bin/Debug/netcoreapp3.1/t.deps.json
+/Users/sobhione/Documents/School/t/t/bin/Debug/netcoreapp3.1/t.runtimeconfig.json
+/Users/sobhione/Documents/School/t/t/bin/Debug/netcoreapp3.1/t.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/t/t/bin/Debug/netcoreapp3.1/t.dll
+/Users/sobhione/Documents/School/t/t/bin/Debug/netcoreapp3.1/t.pdb
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.dll
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.pdb
+/Users/sobhione/Documents/School/t/t/obj/Debug/netcoreapp3.1/t.genruntimeconfig.cache

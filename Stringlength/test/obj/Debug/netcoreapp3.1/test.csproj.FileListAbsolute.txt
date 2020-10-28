@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/test.deps.json
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.json
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/test.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/test.dll
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/test.pdb
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.AssemblyInfo.cs
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.dll
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.pdb
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/test.genruntimeconfig.cache

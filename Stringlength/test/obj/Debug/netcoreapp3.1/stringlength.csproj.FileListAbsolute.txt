@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/stringlength.deps.json
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/stringlength.runtimeconfig.json
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/stringlength.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/stringlength.dll
+/Users/sobhione/Documents/School/test/test/bin/Debug/netcoreapp3.1/stringlength.pdb
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.AssemblyInfo.cs
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.dll
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.pdb
+/Users/sobhione/Documents/School/test/test/obj/Debug/netcoreapp3.1/stringlength.genruntimeconfig.cache

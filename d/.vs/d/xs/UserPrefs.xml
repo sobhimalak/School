@@ -1,12 +1,14 @@
-﻿<Properties StartupConfiguration="{61E6B18D-2029-44E8-B6D5-228AAE3F5F85}|Default">
-  <MonoDevelop.Ide.ItemProperties.DivideByZero PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+﻿<Properties StartupConfiguration="{0AA45455-BD61-4497-8C60-102C72A1F2E1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="d/Program.cs">
+    <Files>
+      <File FileName="d/Program.cs" Line="20" Column="1" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DivideByZero" expanded="True">
-            <Node name="DivideByZero" expanded="True">
-              <Node name="EmptyEnumeration.cs" selected="True" />
+          <Node name="d" expanded="True">
+            <Node name="d" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -14,6 +16,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.d PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

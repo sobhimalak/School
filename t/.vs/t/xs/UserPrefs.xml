@@ -1,18 +1,18 @@
-﻿<Properties StartupConfiguration="{61E6B18D-2029-44E8-B6D5-228AAE3F5F85}|Default">
-  <MonoDevelop.Ide.ItemProperties.DivideByZero PreferredExecutionTarget="MonoDevelop.Default" />
+﻿<Properties StartupConfiguration="{3FE075FF-9CE8-4985-8C0B-077FFB08F0C3}|Default">
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="DivideByZero" expanded="True">
-            <Node name="DivideByZero" expanded="True">
-              <Node name="EmptyEnumeration.cs" selected="True" />
+          <Node name="t" expanded="True">
+            <Node name="t" expanded="True">
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.t PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

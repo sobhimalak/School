@@ -1,2 +1,0 @@
-# LexiconExercise-SM
-# LexiconExercise-SM
