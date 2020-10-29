@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/bin/Debug/netcoreapp3.1/multidimensionalArrays.deps.json
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/bin/Debug/netcoreapp3.1/multidimensionalArrays.runtimeconfig.json
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/bin/Debug/netcoreapp3.1/multidimensionalArrays.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/bin/Debug/netcoreapp3.1/multidimensionalArrays.dll
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/bin/Debug/netcoreapp3.1/multidimensionalArrays.pdb
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.AssemblyInfo.cs
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.dll
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.pdb
+/Users/sobhione/Documents/School/multidimensionalArrays/multidimensionalArrays/obj/Debug/netcoreapp3.1/multidimensionalArrays.genruntimeconfig.cache

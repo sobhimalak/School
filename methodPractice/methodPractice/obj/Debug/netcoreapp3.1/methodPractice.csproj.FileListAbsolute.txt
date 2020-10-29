@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.AssemblyInfo.cs
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/methodPractice/methodPractice/bin/Debug/netcoreapp3.1/methodPractice.deps.json
+/Users/sobhione/Documents/School/methodPractice/methodPractice/bin/Debug/netcoreapp3.1/methodPractice.runtimeconfig.json
+/Users/sobhione/Documents/School/methodPractice/methodPractice/bin/Debug/netcoreapp3.1/methodPractice.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/methodPractice/methodPractice/bin/Debug/netcoreapp3.1/methodPractice.dll
+/Users/sobhione/Documents/School/methodPractice/methodPractice/bin/Debug/netcoreapp3.1/methodPractice.pdb
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.dll
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.pdb
+/Users/sobhione/Documents/School/methodPractice/methodPractice/obj/Debug/netcoreapp3.1/methodPractice.genruntimeconfig.cache

@@ -1,14 +1,14 @@
-﻿<Properties StartupConfiguration="{03DAA08F-1EC5-41EB-83C1-DDC6A976CFCD}|Default">
-  <MonoDevelop.Ide.ItemProperties.calculator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="calculator/Program.cs">
+﻿<Properties StartupConfiguration="{0008B477-F0FD-431D-BE87-6B52C7E1B1BF}|Default">
+  <MonoDevelop.Ide.ItemProperties.multidimensionalArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="multidimensionalArrays/Program.cs">
     <Files>
-      <File FileName="calculator/Program.cs" Line="15" Column="105" />
+      <File FileName="multidimensionalArrays/Program.cs" Line="17" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="calculator" expanded="True">
-            <Node name="calculator" expanded="True">
+          <Node name="multidimensionalArrays" expanded="True">
+            <Node name="multidimensionalArrays" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>

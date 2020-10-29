@@ -1,14 +1,13 @@
-﻿<Properties StartupConfiguration="{03DAA08F-1EC5-41EB-83C1-DDC6A976CFCD}|Default">
-  <MonoDevelop.Ide.ItemProperties.calculator PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="calculator/Program.cs">
+﻿<Properties StartupConfiguration="{607F6623-1123-4026-9263-13E2921B160D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../multidimensionalArrays/multidimensionalArrays/Program.cs">
     <Files>
-      <File FileName="calculator/Program.cs" Line="15" Column="105" />
+      <File FileName="../multidimensionalArrays/multidimensionalArrays/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="calculator" expanded="True">
-            <Node name="calculator" expanded="True">
+          <Node name="methodPractice" expanded="True">
+            <Node name="methodPractice" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -16,6 +15,7 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.methodPractice PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

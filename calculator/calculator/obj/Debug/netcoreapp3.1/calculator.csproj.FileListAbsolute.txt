@@ -1,0 +1,12 @@
+/Users/sobhione/Documents/School/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.deps.json
+/Users/sobhione/Documents/School/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.runtimeconfig.json
+/Users/sobhione/Documents/School/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.runtimeconfig.dev.json
+/Users/sobhione/Documents/School/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.dll
+/Users/sobhione/Documents/School/calculator/calculator/bin/Debug/netcoreapp3.1/calculator.pdb
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.csprojAssemblyReference.cache
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfoInputs.cache
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.AssemblyInfo.cs
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.csproj.CoreCompileInputs.cache
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.dll
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.pdb
+/Users/sobhione/Documents/School/calculator/calculator/obj/Debug/netcoreapp3.1/calculator.genruntimeconfig.cache
